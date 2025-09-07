@@ -12,6 +12,10 @@ int main()
    {
     cout<<"odd number";
    }
+   else 
+   {
+    cout<<"odd number";
+   }
    
     return 0;
 }
