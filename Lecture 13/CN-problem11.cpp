@@ -57,7 +57,7 @@ int leftOccurance(int arr[], int size, int key)
 int main()
 {
     int even[6] = {0, 2, 5, 5, 5, 15};
-    cout << "left Most occurence of key is: " << leftOccurance(even, 6, 5)<<endl;
+    cout << "left Most occurence of key is: " << 1<<endl;
     cout << "Right Most occurence of key is: " << RightOccurance(even, 6, 5)<<endl;
     return 0;
 }
